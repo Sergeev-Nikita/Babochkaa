@@ -1,0 +1,6 @@
+C:\Users\nikse\Desktop\LB_one_MUSIC_LADONIN-master\Babochkaa\bin\Debug\Babochkaa.exe.config
+C:\Users\nikse\Desktop\LB_one_MUSIC_LADONIN-master\Babochkaa\bin\Debug\Babochkaa.exe
+C:\Users\nikse\Desktop\LB_one_MUSIC_LADONIN-master\Babochkaa\bin\Debug\Babochkaa.pdb
+C:\Users\nikse\Desktop\LB_one_MUSIC_LADONIN-master\Babochkaa\obj\Debug\Babochkaa.csprojAssemblyReference.cache
+C:\Users\nikse\Desktop\LB_one_MUSIC_LADONIN-master\Babochkaa\obj\Debug\Babochkaa.exe
+C:\Users\nikse\Desktop\LB_one_MUSIC_LADONIN-master\Babochkaa\obj\Debug\Babochkaa.pdb
